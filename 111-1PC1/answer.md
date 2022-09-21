@@ -27,6 +27,6 @@ protected void Page_Load(object sender, EventArgs e)
 
 ## 個人認為完成作業須具備觀念
 
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念 (需寫成文章，需最少50字，
-並且文內不得有你、我、他三種文字)
+首先需要先了解環境如何操作，先把檔案clone下來，再去新增web表單，
+並根據readme裡面的要求去做輸出，輸出成功後再將檔案commit跟push上去就完成了。
 
