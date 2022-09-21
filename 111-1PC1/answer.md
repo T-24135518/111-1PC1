@@ -15,7 +15,7 @@
 
 ## 說明程式與內容
 
-設定好環境後，利用Response.Write()語法將HELLO APP列印出來，以下程式碼為使用後結果：
+設定好環境後，利用Response.Write()語法將HELLO APP輸入進去後，執行程式網頁就會跳出HELLO APP，以下程式碼為使用後結果：
 
 ```csharp
 protected void Page_Load(object sender, EventArgs e)
